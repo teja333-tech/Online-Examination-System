@@ -15,10 +15,10 @@ Object-Oriented Programming (OOP)
 
 Key Features:
 
-Student registration
-User-friendly GUI using Java Swing
-Dynamic question loading from MySQL database
-Multiple-choice examination interface
-Automatic score calculation
-Result storage in MySQL database
-Database connectivity using JDBC
+Student registration,
+User-friendly GUI using Java Swing,
+Dynamic question loading from MySQL database,
+Multiple-choice examination interface,
+Automatic score calculation,
+Result storage in MySQL database,
+Database connectivity using JDBC.
