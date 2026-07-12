@@ -1,4 +1,24 @@
-# Online-Examination-System
-Online Examination System | Java, OOP Built a Java-based examination platform using object-oriented programming concepts. Developed modules for user login, question management, exam execution, and automatic score calculation, improving the efficiency of the examination process.
+## Online Examination System
 
-The Online Examination System is a Java application that automates the process of conducting online examinations. It provides functionalities such as user authentication, exam creation, question management, automated evaluation, and result generation while demonstrating object-oriented programming concepts and Java application development.
+
+
+The Online Examination System is a Java desktop application developed using Java Swing and MySQL. The application enables students to register, attend online examinations, answer multiple-choice questions, receive automatic score evaluation, and securely store examination results in a database. The project demonstrates object-oriented programming principles, GUI development, JDBC connectivity, and database management.
+
+Technologies Used:
+
+Java
+Java Swing
+JDBC
+MySQL
+Object-Oriented Programming (OOP)
+
+
+Key Features:
+
+Student registration
+User-friendly GUI using Java Swing
+Dynamic question loading from MySQL database
+Multiple-choice examination interface
+Automatic score calculation
+Result storage in MySQL database
+Database connectivity using JDBC
